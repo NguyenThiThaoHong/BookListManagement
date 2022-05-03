@@ -1,2 +1,2 @@
 # BookListManagement
-Giao dien java quản lý danh sách sách
+Giao diện JAVA quản lý danh sách sách
